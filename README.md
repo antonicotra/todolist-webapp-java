@@ -4,14 +4,20 @@ My first project in Java
 
 A simple todo lists web app built using Java EE
 
-## Java EE technologies used:
+## Jakarta EE technologies used:
 * Servlets
 * JSP
 * JDBC
 
+## Application Server:
+* Apache Tomcat
+
+## Tool Build Project:
+* Apache Maven
+
 ## Other technologies used
-* Javascript
-* Tailwind
+* Javascript (inside the JSP file)
+* Tailwind (using CDN)
 * MySQL
 
 ## Video
