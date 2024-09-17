@@ -1,5 +1,8 @@
 # ToDoListWebApp
-A simple todo lists web app built using java EE
+
+My first project in Java
+
+A simple todo lists web app built using Java EE
 
 ## Java EE technologies used:
 * Servlets
