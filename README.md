@@ -2,7 +2,7 @@
 
 My first project in Java
 
-A simple todo lists web app built using Java EE
+A simple todo lists web app built using Jakarta EE
 
 ## Jakarta EE technologies used:
 * Servlets
