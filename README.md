@@ -12,4 +12,5 @@ A simple todo lists web app built using java EE
 * MySQL
 
   ### Video
-![07644e49-6b24-40a9-80ce-43f6edaa9b42](https://github.com/user-attachments/assets/0ef79090-e099-48c0-beef-3ff022d84841)
+
+![videotodolist](https://github.com/user-attachments/assets/29dec30d-4819-4872-b596-4e30a21ab73e)
