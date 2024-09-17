@@ -22,5 +22,6 @@ A simple todo lists web app built using Jakarta EE
 
 ## Video
 
-https://github.com/user-attachments/assets/e2e6a521-49fa-4a3b-9c3f-540e6a0a40e8
+https://github.com/user-attachments/assets/77e07afb-a4e8-4185-b0b2-bbf651f19f78
+
 
